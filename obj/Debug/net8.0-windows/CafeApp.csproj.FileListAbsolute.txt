@@ -1,0 +1,6 @@
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\CafeApp\obj\Debug\net8.0-windows\CafeApp.Form1.resources
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\CafeApp\obj\Debug\net8.0-windows\CafeApp.csproj.GenerateResource.cache
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\CafeApp\obj\Debug\net8.0-windows\CafeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\CafeApp\obj\Debug\net8.0-windows\CafeApp.AssemblyInfoInputs.cache
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\CafeApp\obj\Debug\net8.0-windows\CafeApp.AssemblyInfo.cs
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\CafeApp\obj\Debug\net8.0-windows\CafeApp.csproj.CoreCompileInputs.cache
